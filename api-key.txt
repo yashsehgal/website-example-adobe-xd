@@ -1,0 +1,7 @@
+3b6756c49b6244a94ef088dcf14bb425
+
+-- this api key will only work with this project
+-- this key is registered with the OpenWeatherMap.org website
+
+
+API Source Website: https://openweathermap.org
