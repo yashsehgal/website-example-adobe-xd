@@ -1,0 +1,62 @@
+body {
+  background-color: black;
+}
+
+#logo-text {
+  width: 100px;
+  padding: 3em;
+}
+
+#logo-text .logo-image {
+  cursor: pointer;
+}
+
+#github-text {
+  float: right;
+  width: 100px;
+  padding: 2em;
+}
+
+#github-text .github-option {
+  cursor: pointer;
+}
+
+#home-text {
+  padding: 2em;
+  width: 90px;
+  float: right;
+}
+
+#home-text .home-option {
+  cursor: pointer;
+}
+
+#contact-text {
+  padding: 2em;
+  float: right;
+  width: 115px;
+}
+
+#contact-text .contact-option {
+  cursor: pointer;
+}
+
+#main-section {
+  padding: 3em;
+  width: 650px;
+}
+
+#main-section .main-container {
+  cursor: pointer;
+}
+
+#button-section, #learnmore-btn {
+  width: 150px;
+  padding: 4em;
+  padding-right: 2em;
+}
+
+#button-section .course-button, #button-section .learnmore-btn, #learnmore-btn .course-button, #learnmore-btn .learnmore-btn {
+  cursor: pointer;
+}
+/*# sourceMappingURL=index-style.css.map */

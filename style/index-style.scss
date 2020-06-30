@@ -1,0 +1,55 @@
+body {
+  background-color: black;
+}
+
+#logo-text {
+  width: 100px;
+  padding: 3em;
+  .logo-image {
+    cursor: pointer;
+  }
+}
+
+#github-text {
+  float: right;
+  width: 100px;
+  padding: 2em;
+  .github-option {
+    cursor: pointer;
+  }
+}
+
+#home-text {
+  padding: 2em;
+  width: 90px;
+  float: right;
+  .home-option {
+    cursor: pointer;
+  }
+}
+
+#contact-text {
+  padding: 2em;
+  float: right;
+  width: 115px;
+  .contact-option {
+    cursor: pointer;
+  }
+}
+
+#main-section {
+  padding: 3em;
+  width: 650px;
+  .main-container {
+    cursor: pointer;
+  }
+}
+
+#button-section, #learnmore-btn {
+  width: 150px;
+  padding: 4em;
+  padding-right: 2em;;
+  .course-button, .learnmore-btn {
+    cursor: pointer;
+  }
+}
